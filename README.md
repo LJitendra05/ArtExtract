@@ -172,7 +172,8 @@ indicating that the learned deep feature embeddings effectively preserve visual 
 
 Below is an example of Top-5 visually similar paintings retrieved for a given query image:
 
-![Similarity Retrieval Example](results/sample_query.png)
+<img width="1182" height="208" alt="image" src="https://github.com/user-attachments/assets/b3676b99-198b-46e4-8c34-bf4d8abe8241" />
+
 
 ---
 
